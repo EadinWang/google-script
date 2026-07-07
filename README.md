@@ -1,2 +1,2 @@
-# google-script
-Google App Script tricks
+# Google App Script tricks
+Go to Extensions > Apps Script
