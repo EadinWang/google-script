@@ -2,7 +2,7 @@ function replaceTextColor() {
   // === CONFIGURE THESE ===
   const TARGET_COLOR = '#0177c6';   // color to find (hex)
   const NEW_COLOR    = '#425de0';   // color to replace it with (hex)
-  // ========================
+  // 
 
   const presentation = SlidesApp.getActivePresentation();
   const slides = presentation.getSlides();
