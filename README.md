@@ -15,7 +15,7 @@ Two versions are included:
 2. Go to **Extensions → Apps Script**.
 3. Delete any boilerplate code and paste in one of the scripts below.
 
-**Configure:** replace the color codes based on your needs. 
+**Configure:** replace the color codes based on your needs. Example: 
 
    ```javascript
   // replace multiple colors
@@ -34,9 +34,10 @@ Two versions are included:
   ```
 
 4. Click **Save** (Ctrl/Cmd + S).
-5. Select the function to run from the dropdown at the top, then click **Run**.
-6. Authorize the script the first time you run it.
-7. Check the alert popup or **Executions → Logs** for a summary. Output looks like:
+5. Select the function to run from the dropdown at the top if it's not selected. 
+6. Click **Run**.
+7. Authorize the script the first time you run it.
+8. Check the alert popup or **Executions → Logs** for a summary. Output looks like:
 ```
 RGB colors found in this presentation:
 #0087e4 — 2 run(s)
@@ -44,8 +45,10 @@ RGB colors found in this presentation:
 #a0a1a7 — 2 run(s)
 #a5a5a5 — 2 run(s)
 ```
+9. Go back to the slides and check, there might be a popup. 
 
 > ⚠️ **Tip:** If you paste code from a source that uses "smart quotes" (`‘ ’` / `“ ”`), Apps Script will throw a syntax error. Make sure all quotes are straight (`'` / `"`) before running.
+
 
 ## Finding your target colors
  
