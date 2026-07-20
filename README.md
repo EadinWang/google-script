@@ -45,10 +45,6 @@ RGB colors found in this presentation:
 
 > ⚠️ **Tip:** If you paste code from a source that uses "smart quotes" (`‘ ’` / `“ ”`), Apps Script will throw a syntax error. Make sure all quotes are straight (`'` / `"`) before running.
 
-## Finding your current colors
-
-Not sure what hex codes are actually used in your deck? Run the included `debugAllColors()` function first. It scans the whole presentation and logs every custom RGB color it finds, along with how many runs use each one. Use this to confirm the exact hex values before adding them to `COLOR_MAP`.
-
 ## Finding your target colors
  
 Not sure what hex codes are currently used in your deck? Run this diagnostic script first — it scans the presentation and logs every RGB color found along with how many text runs use it:
