@@ -121,8 +121,4 @@ function rgbToHex(rgbColor) {
 - Changes apply directly to the active presentation — consider duplicating your file first if you want a backup before running.
 ## Credits
  
-Written by Eadin Wang with Claude (Anthropic).
-
-## License
-
-MIT — free to use, modify, and share.
+Written by Eadin Wang with Claude (Anthropic). Free to use, modify, and share with proper credit.
